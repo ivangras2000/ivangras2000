@@ -33,6 +33,7 @@
 <code><img width="20" src="https://github.com/ivangras2000/ivangras2000/blob/c8832ff7bd62a16ddf7da0540d9c2b3913aa0533/archivos_png/Linux.jpeg" alt="Linux" title="Linux"/></code> &nbsp;
 <code><img width="20" src="https://github.com/ivangras2000/ivangras2000/blob/ebb2e8ff6df529082e48e98e7021f36753db0781/archivos_png/Windows.webp" alt="Windows" title="Windows"/></code> &nbsp;
 <code><img width="20" src="https://github.com/ivangras2000/ivangras2000/blob/3e159531d5e0359bddf9fc29642a2cd73a7fde69/archivos_png/logo_ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code> &nbsp;
+<code><img width="20" src="https://github.com/ivangras2000/ivangras2000/blob/f836d7d96424174a66903b296f6eb7d0e7fcd857/archivos_png/MySql_logo.png" alt="MySql" title="MySql"/></code> &nbsp;
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Artificial Intelligence***
 <p align="left">
@@ -43,7 +44,7 @@
 <img src="https://github.com/ivangras2000/ivangras2000/blob/5f989633840005505042affecac2ece58aab31c9/archivos_gif/mundo.gif" width="30px">&nbsp;***Tools I am learning***
 <p align="left">
 <p align="left">
-<code><img width="20" src="https://github.com/ivangras2000/ivangras2000/blob/f836d7d96424174a66903b296f6eb7d0e7fcd857/archivos_png/MySql_logo.png" alt="MySql" title="MySql"/></code> &nbsp;
+
 <code><img width="20" src="https://github.com/ivangras2000/ivangras2000/blob/f836d7d96424174a66903b296f6eb7d0e7fcd857/archivos_png/Html_Logo.png" alt="HTML" title="HTML"/></code> &nbsp;
 <code><img width="20" src="https://github.com/ivangras2000/ivangras2000/blob/f836d7d96424174a66903b296f6eb7d0e7fcd857/archivos_png/React_logo.png" alt="ReactJS" title="ReactJS"/></code> &nbsp;
 <code><img width="20" src="https://github.com/ivangras2000/ivangras2000/blob/f836d7d96424174a66903b296f6eb7d0e7fcd857/archivos_png/JavaScript_Logo.png" alt="JavaScript" title="JavaScript"/></code> &nbsp;
